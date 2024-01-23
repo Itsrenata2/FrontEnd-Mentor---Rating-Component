@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Itsrenata2/FrontEnd-Mentor-Rating-Component)
+- Live Site URL: [FrontEnd Mentor | Rating Component](https://front-end-mentor-rating-component-nine.vercel.app/)
 
 ## My process
 
